@@ -1,0 +1,15 @@
+{
+  "name": "log-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-logs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binary-split-streams2": "^1.0.3",
+    "bluebird": "^3.4.1"
+  }
+}
